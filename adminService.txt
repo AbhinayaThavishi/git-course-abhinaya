@@ -1,7 +1,11 @@
 add and remove users
 change the roles
 manage the database
+<<<<<<< HEAD
 closing the oracle database connection
+=======
+closing the mysql database connection
+>>>>>>> b9229626dd267375f514a1a7dfb42dd61344a032
 
 change 1
 change 2 in Abhinaya's database
